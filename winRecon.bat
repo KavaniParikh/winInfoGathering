@@ -2,6 +2,7 @@
 
 @ echo off
 
+Rem Making a dedicated directory to stote output
 
 mkdir winInfo
 cd winInfo
